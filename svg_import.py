@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
 """
+source: https://gist.github.com/fathonix/63b9232aae6b6987cae0d26cad624894
+
 Adapted from https://stackoverflow.com/a/65851533
 The input SVG must be flattened/combined into single node/path first.
 Recommended to optimize the SVG first with SVGO or Inkscape's Save As Optimized SVG.
