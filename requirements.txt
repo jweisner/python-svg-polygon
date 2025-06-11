@@ -1,14 +1,2 @@
-certifi==2025.4.26
-chardet==4.0.0
-idna==3.7
-Jinja2==3.1.6
-MarkupSafe==3.0.2
 numpy==2.2.6
-Pillow==10.3.0
-requests==2.32.4
-scipy==1.15.3
 svg.path==6.3
-svgpathtools==1.7.1
-svgwrite==1.4.3
-tkdesigner==1.0.7
-urllib3==1.26.20
